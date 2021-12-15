@@ -4,5 +4,6 @@ Sunucu ile dosya gonderilir.
 FileDownloader ile dosya indirilir.
 
 ## Yapilacaklar
-- Simdilik ihtiyacimi karsiladi. Belki cift yonlu olabilir.
+- Settings verisi dosyadan okunabilir.
+- Cift yonlu veri tasima olabilir.
 
