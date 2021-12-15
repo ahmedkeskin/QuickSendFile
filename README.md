@@ -1,7 +1,7 @@
 # QuickSendFile - mvp
 Yerel ag uzerinde dosya tasimak icin kullanilir
-Sunucu ile dosya gonderilir.
-FileDownloader ile dosya indirilir.
+
+FileSender ile dosya gonderilir. FileDownloader ile dosya indirilir. Settings dosyasinda IP adresini guncelleyerek kullabilirsiniz.
 
 ## Yapilacaklar
 - DI eklenecek.
